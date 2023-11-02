@@ -1,0 +1,35 @@
+*{
+
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    
+}
+.hero{
+height: 100vh;
+width: 100%;
+background-image: url(goblin.jpg);
+background-size: cover;
+background-position: center;
+
+}
+nav{
+
+    display: flex;
+    align-items: center;
+    padding-left: 10%;
+    padding-right:10% ;
+
+}
+nav ul{
+
+    display: flex;
+    letter-spacing: 1px;
+    
+}
+nav ul li{
+
+display: inline-block;
+
+}
